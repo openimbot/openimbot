@@ -3,36 +3,18 @@ name: push
 
 # 触发条件：
 on:
-  # 当有新的 push 操作时触发
   push:
-  # 我在使用 GitHub CLI （gh） 允许手动触发工作流
-  # gh workflow run update-readme
-  workflow_dispatch:
-  # 当有新的 pull request 操作时触发
-  pull_request:
-  schedule: 
-    # Runs on the 8, 10, 14 and 16th hour.
-    - cron: "*/10 * * * *"
 
-# 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
-    # 这个 job 有三个步骤：
     steps:
       - name: Auto green
         run: |
           git config --local user.email "3293172751nss@gmail.com"
           git config --local user.name "kubernetes-on"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          # 将 UTC 时间转换为上海时间
-          local_time=$(date -u -d "$(date -u)" "+%Y-%m-%d %H:%M:%S" -d "8 hours")
           echo " 🚀 Shanghai time when the README file was last updated：$local_time" >> README.md
           # 允许空提交，-a 省略git add . 而且设置签名
           git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
-# env
-# GITHUB_TOKEN：这是一个自动生成的令牌，可以让 Action 访问项目的数据。
-# PERSONAL_GITHUB_TOKEN：这是一个使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
