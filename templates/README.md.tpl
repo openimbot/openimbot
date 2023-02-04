@@ -1,5 +1,7 @@
 ## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
-
+<!--
+[![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
+-->
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
@@ -41,58 +43,45 @@
 <h2></h2>
 
 #### 👷 Check out what I'm currently working on
-
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 day ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
-- [cubxxw/cubxxw.gitHub.io](https://github.com/cubxxw/cubxxw.gitHub.io) - 😎 (1 week ago)
-- [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它 (1 week ago)
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 #### 🌱 Check out my recent projects
-
-- [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
-- [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr
-- [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
-- [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 #### ⭐ Check out my recent stars
-
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 days ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 week ago)
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services. (2 weeks ago)
-- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo (2 weeks ago)
-- [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry. (2 weeks ago)
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
 
 #### 👯 Check out my recent followers
-
-- [kubernetes-on](https://github.com/kubernetes-on)
-- [mengdong123](https://github.com/mengdong123)
-- [libfancy](https://github.com/libfancy)
-- [ShiMaRing](https://github.com/ShiMaRing)
-- [ethan-phu](https://github.com/ethan-phu)
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
 
 #### 🔨 Check out my recent pull requests
-
-- [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/18) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
-- [The long-updated main branch is filed for 2023](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/17) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
-- [Make a partial change to the document](https://github.com/marmotedu/iam/pull/66) on [marmotedu/iam](https://github.com/marmotedu/iam) (3 weeks ago)
-- [Some minor changes in the details](https://github.com/cloudreve/Cloudreve/pull/1567) on [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) (1 month ago)
-- [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (1 month ago)
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 #### 📜 Check out my recent blog posts
-
-
-
-- [GTD实践](https://nsddd.top/archives/gtd-todo) (5 days ago)
-- [技术领导力与职业规划: 人生路线图上的必读阅读推荐](https://nsddd.top/archives/career-development) (1 week ago)
-- [GitHub CLI 命令行工具（gh)](https://nsddd.top/archives/gh) (1 week ago)
-- [sealos开源社区~第一阶段](https://nsddd.top/archives/sealos-one) (3 months ago)
-- [在线vscode完成贡献和阅读](https://nsddd.top/archives/githubdev) (3 months ago)
+<!--zhihu：range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5 -->
+<!--blog: range rss "https://nsddd.top/rss.xml" 5-->
+{{range rss "https://nsddd.top/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
 #### 📫 How to reach me
-
-
+<!-- 
+<div>
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+</div>
+-->
+<!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
@@ -117,7 +106,15 @@
 </p>
 </hr>
 
-
+<!-- ⚠️ about svg file action aotu
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<p align="center">
+  Visitor count<br>
+  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cubxxw&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="cubxxw" /></a> </p>
+</div>
+-->
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
@@ -191,4 +188,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-04 08:55:44
