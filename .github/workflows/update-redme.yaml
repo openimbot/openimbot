@@ -47,7 +47,7 @@ jobs:
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
-          git config --local user.email "3293172751nss@gmail.com"
+          git config --local user.email "3293172751yxy@gmail.com"
           git config --local user.name "kubernetes-on"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
