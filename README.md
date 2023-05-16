@@ -49,12 +49,15 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenIMSDK/automation](https://github.com/OpenIMSDK/automation) - OpenIM Automation, cicd, and actions, Robotics. (today)
+- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (today)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (4 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 months ago)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 months ago)
 
 #### 👯 Check out my recent followers
 
+- [cubxxw](https://github.com/cubxxw)
 
 #### 🔨 Check out my recent pull requests
 
@@ -172,4 +175,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-16 18:08:26
