@@ -1,11 +1,11 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://github.com/cubxxw" target="_blank">🐻XiongXinWei</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="160" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="400" height="160"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kubernetes-on&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="160" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=kubernetes-on&theme=dracula&hide_border=false" alt="maemreyo" width="400" height="160"/>
 </p>
 
 </p>
@@ -42,53 +42,34 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 day ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
-- [cubxxw/cubxxw.gitHub.io](https://github.com/cubxxw/cubxxw.gitHub.io) - 😎 (1 week ago)
-- [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它 (1 week ago)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (4 days ago)
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
-- [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr
-- [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
-- [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档
 
 #### ⭐ Check out my recent stars
 
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 days ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 week ago)
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services. (2 weeks ago)
-- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo (2 weeks ago)
-- [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry. (2 weeks ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (4 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 months ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 months ago)
 
 #### 👯 Check out my recent followers
 
-- [kubernetes-on](https://github.com/kubernetes-on)
-- [mengdong123](https://github.com/mengdong123)
-- [libfancy](https://github.com/libfancy)
-- [ShiMaRing](https://github.com/ShiMaRing)
-- [ethan-phu](https://github.com/ethan-phu)
 
 #### 🔨 Check out my recent pull requests
 
-- [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/18) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
-- [The long-updated main branch is filed for 2023](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/17) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
-- [Make a partial change to the document](https://github.com/marmotedu/iam/pull/66) on [marmotedu/iam](https://github.com/marmotedu/iam) (3 weeks ago)
-- [Some minor changes in the details](https://github.com/cloudreve/Cloudreve/pull/1567) on [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) (1 month ago)
-- [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (1 month ago)
+- [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (4 days ago)
+- [Update .gitignore](https://github.com/OpenIMSDK/community/pull/21) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [GTD实践](https://nsddd.top/archives/gtd-todo) (5 days ago)
-- [技术领导力与职业规划: 人生路线图上的必读阅读推荐](https://nsddd.top/archives/career-development) (1 week ago)
-- [GitHub CLI 命令行工具（gh)](https://nsddd.top/archives/gh) (1 week ago)
-- [sealos开源社区~第一阶段](https://nsddd.top/archives/sealos-one) (3 months ago)
-- [在线vscode完成贡献和阅读](https://nsddd.top/archives/githubdev) (3 months ago)
+- [高级的 Githook 设计](https://nsddd.top/archives/githook) (1 day ago)
+- [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (1 month ago)
+- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (1 month ago)
+- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 month ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -112,7 +93,7 @@
 </p>
 <p align='center'>
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
-<a href="https://github.com/cubxxw" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+<a href="https://github.com/kubernetes-on" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 <a href="http://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40xiongxinwei-blue?style=social&logo=Octopus%20Deploy"></a>
 </p>
 </hr>
@@ -191,4 +172,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-04 08:55:44
