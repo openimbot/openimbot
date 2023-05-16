@@ -12,7 +12,7 @@ jobs:
       - name: Auto green
         run: |
           git config --local user.email "3293172751nss@gmail.com"
-          git config --local user.name "kubernetes-on"
+          git config --local user.name "kubbot"
           git pull --rebase
           echo " 🚀 Shanghai time when the README file was last updated：$local_time" >> README.md
           # 允许空提交，-a 省略git add . 而且设置签名
