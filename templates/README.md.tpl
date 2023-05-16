@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://github.com/cubxxw" target="_blank">🐻XiongXinWei</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 <!--
 [![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=kubernetes-on&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
 -->
@@ -77,8 +77,8 @@
 #### 📫 How to reach me
 <!-- 
 <div>
-<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/kubbot/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kubbot&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
 </div>
 -->
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
