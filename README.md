@@ -1,7 +1,6 @@
 ## Hi, 👋  I'm <a href="https://github.com/cubxxw" target="_blank">🐻XiongXinWei</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 
 
-
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
@@ -50,11 +49,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [OpenIMSDK/automation](https://github.com/OpenIMSDK/automation) - OpenIM Automation, cicd, and actions, Robotics. (1 day ago)
 - [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (1 day ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (5 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 months ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -176,4 +175,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-17 08:44:18
