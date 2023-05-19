@@ -42,6 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (2 days ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (2 days ago)
 
@@ -50,11 +51,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (2 days ago)
 - [OpenIMSDK/automation](https://github.com/OpenIMSDK/automation) - OpenIM Automation, cicd, and actions, Robotics. (3 days ago)
 - [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (3 days ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 week ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -176,4 +177,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-19 19:06:31
