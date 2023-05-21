@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
 - [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) -  (1 day ago)
-- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (2 days ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (2 days ago)
-- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (4 days ago)
+- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-21 23:19:16
