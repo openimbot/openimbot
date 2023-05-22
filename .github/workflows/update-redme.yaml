@@ -12,10 +12,9 @@ on:
   pull_request:
   schedule: 
     # Runs on the 8, 10, 14 and 16th hour.
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"
     - cron: "0 8-11/5,14-17/4 * * *"
     # Runs at 00:00 UTC every day.
-    - cron: "0 0 * * *"
     - cron: "0 */8 * * *"
 
 # 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
@@ -44,9 +43,9 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: kubbot 🤖
+          commit_user_email: 3293172751ysy@gmail.com
+          commit_author: kubbot 🤖 <3293172751ysy@gmail.com>
 
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
