@@ -45,7 +45,7 @@
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 week ago)
-- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) -  (1 week ago)
+- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) -  (2 weeks ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (2 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -54,7 +54,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (2 days ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 week ago)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 week ago)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 week ago)
@@ -182,4 +182,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-03 07:35:19
