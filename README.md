@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 weeks ago)
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (2 weeks ago)
-- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) -  (2 weeks ago)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (3 weeks ago)
+- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (today)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
+- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (today)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
 
 #### 🌱 Check out my recent projects
 
@@ -182,4 +182,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-09 21:35:14
