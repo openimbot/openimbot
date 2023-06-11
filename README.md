@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 day ago)
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 day ago)
+- [kubecub/RemoteOps-scripts](https://github.com/kubecub/RemoteOps-scripts) - A GitHub repository dedicated to storing scripts executed by @kubbot on remote servers for the purpose of pulling and creating PRs on repositories within the kubecub organization, as well as resolving various issue problems. (1 day ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (1 day ago)
-- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (1 day ago)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -182,4 +182,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-11 10:52:12
