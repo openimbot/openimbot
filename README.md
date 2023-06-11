@@ -4,7 +4,7 @@
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kubbot&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="160" />
+	<img src="https://github-readme-stats.vercel.app/api?username=kubbot&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="160" />
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=kubbot&theme=dracula&hide_border=false" alt="maemreyo" width="400" height="160"/>
 </p>
 
@@ -44,8 +44,8 @@
 
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (today)
+- [OpenIMSDK/OpenIM-Docs](https://github.com/OpenIMSDK/OpenIM-Docs) - OpenIM system documentation (today)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (today)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
 
 #### 🌱 Check out my recent projects
@@ -182,4 +182,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-11 12:14:23
