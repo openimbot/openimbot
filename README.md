@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (today)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
-- [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (today)
 
 #### 🌱 Check out my recent projects
 
@@ -184,4 +184,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-14 14:16:07
