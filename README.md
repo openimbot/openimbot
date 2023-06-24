@@ -50,7 +50,7 @@
 
 #### 🌱 Check out my recent projects
 
-- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 
+- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
 
 #### ⭐ Check out my recent stars
 
@@ -184,4 +184,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-24 20:56:24
