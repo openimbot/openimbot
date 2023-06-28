@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/OpenIM-Docs](https://github.com/OpenIMSDK/OpenIM-Docs) - OpenIM system documentation (today)
-- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (today)
-- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
-- [OpenIMSDK/openim-sdk-cpp](https://github.com/OpenIMSDK/openim-sdk-cpp) -  (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
+- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (1 day ago)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
+- [OpenIMSDK/openim-sdk-cpp](https://github.com/OpenIMSDK/openim-sdk-cpp) -  (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -184,4 +184,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-06-28 07:36:09
