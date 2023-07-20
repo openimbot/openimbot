@@ -39,11 +39,13 @@
 
 #### 🌱 Check out my recent projects
 
+- [kubbot/openim-cla](https://github.com/kubbot/openim-cla) - 
 - [kubbot/auto-translate-readme](https://github.com/kubbot/auto-translate-readme) - 
 - [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/openim-sigs/cla/pull/6) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (today)
 - [Update context.go](https://github.com/kubecub/log/pull/14) on [kubecub/log](https://github.com/kubecub/log) (1 month ago)
 - [Update context.go](https://github.com/kubecub/log/pull/8) on [kubecub/log](https://github.com/kubecub/log) (1 month ago)
 - [Update context.go](https://github.com/kubecub/log/pull/7) on [kubecub/log](https://github.com/kubecub/log) (1 month ago)
@@ -51,4 +53,3 @@
 - [Update README.md](https://github.com/kubecub/CloudBuildAI/pull/16) on [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) (2 months ago)
 - [Update README.md](https://github.com/kubecub/.github/pull/1) on [kubecub/.github](https://github.com/kubecub/.github) (2 months ago)
 - [Update .gitignore](https://github.com/OpenIMSDK/community/pull/21) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (2 months ago)
- 🚀 Shanghai time when the README file was last updated：2023-07-20 17:35:37
