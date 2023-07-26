@@ -44,13 +44,13 @@ jobs:
           commit_message: Update generated README
           branch: main
           commit_user_name: openimbot 🤖
-          commit_user_email: 3293172751ysy@gmail.com
-          commit_author: openimbot 🤖 <3293172751ysy@gmail.com>
+          commit_user_email: openimsdk@qq.com
+          commit_author: openimbot 🤖 <openimsdk@qq.com>
 
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
-          git config --local user.email "3293172751ysy@gmail.com"
+          git config --local user.email "openimsdk@qq.com"
           git config --local user.name "openimbot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
