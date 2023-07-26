@@ -44,9 +44,11 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: kubbot 🤖
+          push_options: '--force'
+          commit_user_name: kubbot
+          skip_dirty_check: true
           commit_user_email: 3293172751ysy@gmail.com
-          commit_author: kubbot 🤖 <3293172751ysy@gmail.com>
+          commit_author: kubbot <3293172751ysy@gmail.com>
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
 
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
