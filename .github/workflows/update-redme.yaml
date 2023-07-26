@@ -41,7 +41,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: 'Docs: Update generated README'
           branch: main
           commit_user_name: openimbot 🤖
           commit_user_email: openimsdk@qq.com
