@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
           # Options
-          user: kubbot
+          user: openimbot
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
